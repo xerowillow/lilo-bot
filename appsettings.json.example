@@ -1,0 +1,9 @@
+{
+    "DiscordConfiguration": {
+        "client-token": ""
+    },
+
+    "ApplicationConfig": {
+        "sql-connection-string": "Data Source=Store.db"
+    }
+}
